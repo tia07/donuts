@@ -167,6 +167,12 @@ h2{
 	font-size: 1.2em;
 	border-radius: 10px;
 	background:#F06796;
+	
+}
+# contactus a{
+	color:white;
+}
+#viewbutton a {
 	color:white;
 }
 .box h2{
